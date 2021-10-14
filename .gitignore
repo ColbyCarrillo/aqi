@@ -1,1 +1,6 @@
 **/raw_data
+**/raw_data_cbsa
+**/raw_data_monitors_sites
+subset_aqi_az.csv
+subset_cbsa_aqi_part1.csv
+subset_cbsa_aqi_part2.csv

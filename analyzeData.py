@@ -69,7 +69,7 @@ plt.show()
 
 
 
-# Alter figure size to get a better look
+# Figure of all the data together - Would not use but interesting to look at
 plt.figure(figsize=(30, 15))
 plt.plot(tmp_df["Date"],tmp_df["AQI"])
 
